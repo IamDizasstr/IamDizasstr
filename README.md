@@ -1,96 +1,62 @@
+# 🐞 Из разработчика в тестировщики
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Привет! Меня зовут **[Валерия]**, и я активно изучаю тестирование программного обеспечения. В этом репозитории собраны мои учебные и практические проекты, которые демонстрируют мои навыки в QA.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Valeria</h1></summary>
-  </ul>
-</div>
+[![Email](https://img.shields.io/badge/Email-написать_мне-D14836?style=flat&logo=gmail)](mailto:vv800180@gmail.com)
 
+## 🚀 Обо мне
+- 🔍 Перехожу в тестирование из [разработки]
+- 📚 Изучаю: ручное и автоматизированное тестирование, тест-дизайн, документацию
+- 💡 Цель: стать профессиональным QA-инженером
+- 📄 [Моё резюме](ссылки обновляются)
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+## 🛠 Технологии и инструменты
+| Категория       | Навыки                                                                 |
+|-----------------|-----------------------------------------------------------------------|
+| Тестирование    | Ручное тестирование, Тест-кейсы, Чек-листы, Баг-репорты              |
+| Инструменты     | Jira, Trello, TestRail, Postman, Chrome DevTools                      |
+| Автоматизация   | Selenium, pytest (базовые знания)                                    |
+| Базы данных     | SQL (SELECT, JOINs), MySQL                                            |
+| Другое          | Git, HTML/CSS (базово), Charles, Fiddler                              |
 
+## 📂 Проекты
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+### 1. Тестирование веб-приложения [Название проекта]
+- **Описание**: Тестирование функционала [описание: например, интернет-магазина]
+- **Что делал**:
+  - Составил 30+ тест-кейсов ([пример](ссылка_на_документ))
+  - Нашел и оформил 15+ багов ([пример баг-репорта](ссылка))
+  - Провел тестирование API через Postman ([коллекция](ссылка))
+- **Инструменты**: Jira, Postman, TestRail
 
+### 2. Автоматизация тестов с Selenium (Python)
+- **Описание**: Автотесты для проверки авторизации на сайте
+- **Что сделал**:
+  - Реализовал 5 сценариев тестирования
+  - Настроил параметризованные тесты
+  - Интеграция с Allure для отчетов
+- **Код**: [ссылка_на_файл_в_репозитории]
+- **Технологии**: Python, Selenium, pytest, Allure
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, React, Django, Flask, MongoDB**
+### 3. Мобильное тестирование (Android)
+- **Приложение**: [Название]
+- **Чек-листы**: [ссылка]
+- **Особенности**: Тестирование в разных разрешениях, проверка работы при потере связи
 
-- 📫 Feel free to reach me out **vv800180@gmail.com**
-<!--Intro end-->
+## 📚 Сертификаты и обучение
+- [Название курса] ([платформа], 2024) - [ссылка]
+- ISTQB Foundation Level (в процессе)
+- Самостоятельное изучение: 
+  - "Тестирование Дот Ком" Савин
+  - Курсы на Stepik/Udemy
 
+## 🌱 Что планирую изучить
+- [ ] Углубить знания в API-тестировании
+- [ ] Освоить Playwright/Cypress
+- [ ] Изучить основы нагрузочного тестирования
 
+## 📬 Контакты
+- Telegram: [@ваш_ник]
+- Почта: vv800180@gmail.com
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IamDizasstr&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IamDizasstr&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=IamDizasstr&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
-
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=IamDizasstr&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamDizasstr&layout=compact)]([https://github.com/ваш_ник](https://github.com/IamDizasstr))
