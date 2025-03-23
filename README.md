@@ -1,4 +1,4 @@
-# 👋 Привет! Я Васильева Валерия, QA Engineer (готов(а) расти до Middle-уровня)
+# 👋 Привет! Я Васильева Валерия, QA Engineer
 
 [![Telegram](https://img.shields.io/badge/Telegram-Write%20me-blue)](https://t.me/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/IamDizasstr)
