@@ -90,8 +90,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/IamDizasstr)  
 **Последние проекты:**  
 - [Pet-project: API тесты для блога](https://github.com/yourusername/blog-api-tests)  
-- [Тест-кейсы в TestRail](https://github.com/yourusername/testrail-examples)  
-
+ 
 ---
 
 ## 💡 **Фишки, которые вас зацепят**
